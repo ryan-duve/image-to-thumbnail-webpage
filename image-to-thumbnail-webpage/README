@@ -1,0 +1,3 @@
+Often in the lab we photodocument the state of a physics system in case we need to go back later and reference something.  It is a quicker and easier solution than recording everything in a logbook, and it often captures details that weren't considered important at the time but are vital later on.
+
+This project takes all the images in a folder, usually dumped right off the camera, and makes a presentable web page out of them, suitable for showing others or quickly finding an image you need.
